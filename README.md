@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nadia Lago Sáez</h1>
+<h1 align="center">Hola 👋, soy Nadia Lago Sáez</h1>
 <h3 align="center">Jr Developer con pasión por la tecnología y la programación. Poseo buenas habilidades de resolución de problemas, ganas de aprender y tener nuevos desafíos.</h3>
 
 - 📫 How to reach me **nadia.lagosaez@gmail.com**
